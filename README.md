@@ -50,8 +50,13 @@ A curated collection of academic projects and resources from engineering coursew
 
 3. Follow README files inside each folder for setup instructions and documentation.
 
+---
+
 ## 🙌 Contributions
 This repository reflects personal academic growth and experimentation. Feel free to fork, explore, and build upon these ideas!
 
+---
+
 ## 📫 Contact
 For questions or collaboration, reach out via GitHub or drop a comment on the JobOps video.
+
