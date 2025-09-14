@@ -27,7 +27,7 @@ A curated collection of academic projects and resources from engineering coursew
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
 - **Database**: MongoDB Atlas
-- **Other Tools**: React, Tailwind CSS, Virtual Machine Hosting
+- **Other Tools**: React, Tailwind CSS, Popular Windows Virtual Machine Links
 
 ---
 
@@ -59,4 +59,5 @@ This repository reflects personal academic growth and experimentation. Feel free
 
 ## 📫 Contact
 For questions or collaboration, reach out via GitHub or drop a comment on the JobOps video.
+
 
